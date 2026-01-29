@@ -2,25 +2,27 @@
  * Bot category types from CloudFlare Radar
  */
 export type BotCategory =
+  | 'ACADEMIC_RESEARCH'
   | 'ACCESSIBILITY'
-  | 'ADVERTISING'
+  | 'ADVERTISING_AND_MARKETING'
+  | 'AGGREGATOR'
+  | 'AI_ASSISTANT'
   | 'AI_CRAWLER'
-  | 'ARCHIVING'
+  | 'AI_SEARCH'
+  | 'ARCHIVER'
   | 'FEED_FETCHER'
   | 'MONITORING_AND_ANALYTICS'
-  | 'ONLINE_PAYMENTS'
   | 'OTHER'
   | 'PAGE_PREVIEW'
   | 'SEARCH_ENGINE_CRAWLER'
+  | 'SEARCH_ENGINE_OPTIMIZATION'
   | 'SECURITY'
-  | 'SEO'
   | 'SOCIAL_MEDIA_MARKETING'
-  | 'WEBHOOKS'
 
 /**
  * Bot kind types
  */
-export type BotKind = 'BOT'
+export type BotKind = 'BOT' | 'AGENT'
 
 /**
  * A verified bot entry from CloudFlare Radar Bot Directory
@@ -33,13 +35,13 @@ export interface Bot {
   /** Bot kind classification */
   kind: BotKind
   /** Company or organization operating the bot */
-  operator: string
+  operator: string | null
   /** URL to operator's documentation or website */
-  operatorUrl: string
+  operatorUrl: string | null
   /** Bot category classification */
   category: BotCategory
   /** Description of what the bot does */
-  description: string
+  description: string | null
   /** Whether the bot respects robots.txt */
   followsRobotsTxt: boolean
   /** User agent pattern(s) for matching */
